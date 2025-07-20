@@ -49,7 +49,7 @@
     ```
 4. **配置数据库信息** 首次运行 `main.py` 时，程序会自动在根目录生成 `config.ini` 配置文件：
    
-    ```toml
+    ```ini
     [mysql]
     host = 127.0.0.1
     user = root
