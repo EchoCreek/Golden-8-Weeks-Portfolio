@@ -22,8 +22,10 @@ Welcome! This repository documents my 8-week intensive learning journey to becom
 - **[➡️ Go to Project Details](./02-python-csv-to-mysql/README.md)**
 - **Description:** A script to read structured data from a CSV file, process it, and migrate it into a MySQL database. This project showcases database interaction and data handling abilities.
 
-### Week 3: Flask RESTful API (Coming Soon)
-- ...
+### Week 3: Flask RESTful API 
+
+- **[➡️ Go to Project Details](./03-python-flask-restful-api/README.md)**
+- **Description:** A lightweight RESTful API using Flask for managing blog posts. This project demonstrates backend development, implementing CRUD operations, and modular application design with Blueprints.
 
 ### Week 4: Java Console Application (Coming Soon)
 - ...
